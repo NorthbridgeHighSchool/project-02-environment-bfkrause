@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Display:wght@300&family=Merriweather:ital,wght@1,300&family=PT+Sans+Narrow&display=swap');
+h1{
+  font-family: "Big Shoulders Inline Text", sans-serif; 
+}
+h2{
+  font-family: "Merriweather", serif;
+}
+p{
+  font-family: "PT Sans Narrow ", sans-serif; 
+}
+html{
+  background-color: rgba(0, 0, 0, 0.288) 
+}
+img{
+  max-width: 350px;
+  border: double;
+  padding: 5px
+}
+a:link{
+  color: rgba(11, 110, 64, 0.952) 
+}
+a:visited{
+  color: rgba(0, 0, 0, 0.918)
+}
+a:hover{
+  color: rgb(22, 187, 0)
+}
+a.current{
+  color: rgb(0, 110, 255)
+}
+a:active{
+  color: rgb(0, 177, 15)
+}
+.one{
+  float: right;
+  margin: 10px
+}
+.two{
+  float: left;
+  margin: 10px
+}
+class{
+  text-align: justify 
+}
